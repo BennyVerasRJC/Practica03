@@ -1,0 +1,13 @@
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.exe
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.deps.json
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.runtimeconfig.json
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.runtimeconfig.dev.json
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.dll
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\bin\Debug\netcoreapp3.1\Practica03_Variables.pdb
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.csprojAssemblyReference.cache
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.AssemblyInfoInputs.cache
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.AssemblyInfo.cs
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.dll
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.pdb
+C:\Users\Benny Veras\source\repos\Practica03\Practica03_Variables\Practica03_Variables\obj\Debug\netcoreapp3.1\Practica03_Variables.genruntimeconfig.cache
