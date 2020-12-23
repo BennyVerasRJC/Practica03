@@ -34,7 +34,7 @@ namespace Ejercicio03
             Console.WriteLine("DOBLE M={0}", M*2);
 
             Console.WriteLine("SUMA DE TODOS={0}", X + N + Y + M);
-            Console.WriteLine("SUMA DE TODOS={0}", X * N * Y * M);
+            Console.WriteLine("PRODUCTO DE TODOS={0}", X * N * Y * M);
 
 
         }
